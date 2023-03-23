@@ -6,7 +6,6 @@ categories: CTF
 thumbnail: /img/ncd2020.webp
 tags: ctf,ncd2020,autopsy,forensic
 ---
-Two days ago, I collaborated with few students like myself from "The infinity bytes" and participated in the first National Cyber Drill 2020 organized by the Bangladesh Government's e-Government Computer Incident Response Team (BGD e-GOV CIRT) and secured 2nd place against 234 teams.
 
 This contest had teams comprised of cybersecurity personnel from financial and non-financial institutions, regulatory bodies, corporations, law enforcement, universities, and IT organizations of Bangladesh. The challenges were mostly blue team oriented which not really is my forte as I like red team challenges more. So here goes my writeup for the challenges in the "Forensic" section where I first time used [Autopsy](https://www.autopsy.com/download/) to find flags scattered inside an "Encased Image file".
 
