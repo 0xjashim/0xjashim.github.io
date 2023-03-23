@@ -4,7 +4,7 @@ title:  "Cryptography Resources"
 date:   2020-12-15
 categories: CTF
 thumbnail: /img/ncd2020.webp
-tags: ctf,ncd2020,autopsy,forensic
+tags: Cryptography
 ---
 
 # Check real file type
