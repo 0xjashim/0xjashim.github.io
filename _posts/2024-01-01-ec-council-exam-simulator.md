@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EC-Council Exam Simulator — ECIHv3 Practice Tool"
+title: "Exam Simulator — Practice Tool"
 date: 2024-01-01
 categories: tools
 tags: eccouncil, ecih, ceh, exam, simulator, cybersecurity
