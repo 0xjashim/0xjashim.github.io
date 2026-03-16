@@ -1,0 +1,99 @@
+---
+layout: default
+title: Exam Simulator
+permalink: /exam-simulator/
+---
+
+<style>
+  /* Full viewport iframe — fills the space between header and footer */
+  .sim-container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .sim-browser-bar {
+    background: #0a1a0a;
+    border: 1px solid #00ff4133;
+    border-bottom: none;
+    border-radius: 6px 6px 0 0;
+    padding: 8px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    color: #4a7a4a;
+  }
+
+  .sim-browser-bar .dots {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    margin-right: 12px;
+  }
+  .sim-browser-bar .dot {
+    width: 11px; height: 11px; border-radius: 50%;
+  }
+  .sim-browser-bar .url-bar {
+    flex: 1;
+    background: #050f05;
+    border: 1px solid #00ff4122;
+    border-radius: 4px;
+    padding: 3px 10px;
+    color: #00ff41;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+  }
+  .sim-browser-bar .open-btn {
+    margin-left: 10px;
+    color: #4a7a4a;
+    font-size: 11px;
+    text-decoration: none;
+    border: 1px solid #00ff4122;
+    padding: 3px 10px;
+    border-radius: 3px;
+    white-space: nowrap;
+    transition: all 0.15s;
+  }
+  .sim-browser-bar .open-btn:hover {
+    color: #00ff41;
+    border-color: #00ff41;
+  }
+
+  .sim-iframe-wrap {
+    border: 1px solid #00ff4133;
+    border-radius: 0 0 6px 6px;
+    overflow: hidden;
+  }
+
+  .sim-iframe {
+    width: 100%;
+    height: 85vh;
+    border: none;
+    display: block;
+    background: #0d0f14;
+  }
+</style>
+
+<div class="sim-container">
+  <div class="sim-browser-bar">
+    <div class="dots">
+      <span class="dot" style="background:#ff5f56"></span>
+      <span class="dot" style="background:#ffbd2e"></span>
+      <span class="dot" style="background:#28ca41; box-shadow:0 0 5px #28ca41"></span>
+    </div>
+    <span class="url-bar">0xjashim.github.io/Exam-Simulator</span>
+    <a class="open-btn" href="https://0xjashim.github.io/Exam-Simulator/simulator/" target="_blank">↗ open full</a>
+  </div>
+  <div class="sim-iframe-wrap">
+    <iframe
+      class="sim-iframe"
+      src="https://0xjashim.github.io/Exam-Simulator/simulator/"
+      title="EC-Council Exam Simulator"
+      loading="lazy"
+      allow="downloads"
+      sandbox="allow-scripts allow-same-origin allow-popups allow-forms allow-downloads">
+    </iframe>
+  </div>
+</div>
