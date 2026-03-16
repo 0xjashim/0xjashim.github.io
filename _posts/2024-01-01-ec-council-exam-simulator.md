@@ -92,6 +92,6 @@ A fully offline, browser-based practice tool for EC-Council certifications. Uplo
 
 ---
 
-*Created by Jashim Uddin Bhuiyan · Powered by Claude AI · For personal study use only*
+* Created by Jashim Uddin Bhuiyan · For personal study use only *
 
 tags: *eccouncil, ecih, ceh, exam, tools*
