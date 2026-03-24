@@ -122,12 +122,9 @@ permalink: /resume/
 <div class="cv-header">
   <div>
     <div class="cv-name">Jashim Uddin Bhuiyan</div>
-    <div class="cv-title">Senior Officer — Cybersecurity | SOC | Penetration Testing | Pubali Bank Ltd.</div>
+    <div class="cv-title"> Senior Officer — Cybersecurity | SOC | Penetration Testing | Pubali Bank PLC.</div>
     <div class="cv-contact">
       <span>📍</span> 26 Dilkusha C/A, Pubali Bank Ltd. HO, Security Operation Center, Dhaka 1223<br>
-      <span>📞</span> 01920561166, 01710433584<br>
-      <span>✉</span> <a href="mailto:jashimcmt@gmail.com">jashimcmt@gmail.com</a> · <a href="mailto:jashim_cse@live.com">jashim_cse@live.com</a><br>
-      <span>🔗</span>
         <a href="https://github.com/0xjashim" target="_blank">GitHub</a> ·
         <a href="https://www.linkedin.com/in/jashim/" target="_blank">LinkedIn</a> ·
         <a href="https://twitter.com/0xJ4shim" target="_blank">Twitter</a> ·
